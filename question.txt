@@ -1,0 +1,45 @@
+8
+MC 10 
+What is true about an abstract class? 
+Can be instantiated. 
+Similar to concrete class. 
+Cannot be a base class. 
+Contains at least one pure virtual function.
+D
+SA 20 
+What is your course code? 
+CS09204
+TF 5 
+C++ is a case sensitive language. (true/false) 
+true
+MC 30
+Which one of the below mentioned is linear data structure?
+Queue
+Stack
+Arrays
+All of the above
+D
+TF 10
+A linked-list is a dynamic structure. (true/false)
+true
+MC 15
+Tower of hanoi is a classic example of:
+divide and conquer
+recursive approach
+Both A & B
+B but not A
+C
+MC 25
+The Omega notation in asymptotic evaluation represents:
+Base case
+Average case
+Worst case
+NULL case
+A
+MC 20
+Graph traversal is different from a tree traversal, because
+trees are not connected
+graphs may have loops.
+trees have root.
+None is true as tree is a subset of graph
+C
